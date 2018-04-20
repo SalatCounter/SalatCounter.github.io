@@ -20,10 +20,13 @@ html {
 }
 
 h1 {
-
+	font-size: 2em;
 	font-weight: 300;
 	font-style: italic;
 	height: 10%;
+}
 
+p{
+	color: #E9290F;
 }
 
